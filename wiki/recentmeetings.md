@@ -1,17 +1,9 @@
-Welcome to the CMSG Reasearch Group Site
+Recent Meetings
 =========================================
 
-Activities
------------
+PSK meetings
+-------------
 
-The CMSG engages in milti-disciplinary  reasearch  to understand
-the fundamental properties of Materials. To this end  we  undertake
-research using computational modelling of material properties using
-cutting edge tools and well established theoretical paradigms  for
- characterising material properties  from a  first principles. 
-
-We also traina nd equip young an upcoming researchers and bright students
-that show interest and excellence in their work. Over the years we have trained
-a number of students, many of whom end up in world class institutions  for 
- futher studies.
-
+The CMSG works to further the interests of the Physics Community in the country, and as such,
+supports the Pysical Society of Kenya. We hosted a meeting of the PSK recently at  the Universtity
+of Eldoret. 

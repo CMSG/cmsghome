@@ -12,7 +12,7 @@ metorship program include:
 
 1. Sylvia Mueni
 2. Michael Atambo
-3. Elkana Twitch
+3. Elkana Tawitch
 4. Eric Buko
 5. Samson Ngallah
 6. Sharon 

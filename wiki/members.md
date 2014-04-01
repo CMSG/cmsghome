@@ -7,11 +7,14 @@ Present
 The membership of our group reflects our desire to be inclusive and
 multidisciplinary. Current members are:
 
-1. Felix Ndousabirane, (Mphil student, Physics).
-2. Winnie  (Phd Student, Physics).
-3. Caroline Namarome (Mphil student, Chemistry).
-4. Michael Atambo (Phd student , Chemistry).
-5. Denis Magero (Phd student, Physics).
+1. Felix Dusabirane, (MSc student, Physics).
+2. Winnie Mulwa  (PhD Student, Physics).
+3. Caroline Namarome (Msc student, Chemistry).
+3. Patrick Mwonga (Msc student, Chemistry).
+3. Peter Kirui (Msc student, Chemistry).
+3. Victor Mengwa (Msc student, Chemistry).
+4. Michael Atambo (PhD student , Chemistry).
+5. Denis Magero (PhD student, Physics).
 
 Our Group Heads are:
 

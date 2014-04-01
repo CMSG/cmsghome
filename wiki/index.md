@@ -8,9 +8,9 @@ The CMSG engages in milti-disciplinary  reasearch  to understand
 the fundamental properties of Materials. To this end  we  undertake
 research using computational modelling of material properties using
 cutting edge tools and well established theoretical paradigms  for
- characterising material properties  from a  first principles. 
+ characterising material properties  from  first principles. 
 
-We also traina nd equip young an upcoming researchers and bright students
+We also train and equip young  upcoming researchers and bright students
 that show interest and excellence in their work. Over the years we have trained
 a number of students, many of whom end up in world class institutions  for 
  futher studies.
@@ -18,11 +18,11 @@ a number of students, many of whom end up in world class institutions  for
 Available Information:
 
 1. [Annual Reports](/anualreports)
-1. [Collaborators](/collaborators)
-1. [Lab Photos](/photos)
-1. [Our Group Members](/members)
-1. [Recent Visitors](/recentvisitors)
-1. [Recent Publications](/recentpublications)
-1. [Innitiatives](/innitiatives)
-1. [Research Topics](/researchtopics)
-1. [Recent Meetings](/recentmeetings)
+2. [Collaborators](/collaborators)
+3. [Lab Photos](/photos)
+4. [Our Group Members](/members)
+5. [Recent Visitors](/recentvisitors)
+6. [Recent Publications](/recentpublications)
+7. [Innitiatives](/innitiatives)
+8. [Research Topics](/researchtopics)
+9. [Recent Meetings](/recentmeetings)
