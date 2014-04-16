@@ -4,7 +4,7 @@ Welcome to the CMSG Research Group Site
 Activities
 -----------
 
-The CMSG engages in milti-disciplinary  reasearch  to understand
+The CMSG engages in multi-disciplinary  reasearch  to understand
 the fundamental properties of Materials. To this end  we  undertake
 research using computational modelling of material properties using
 cutting edge tools and well established theoretical paradigms  for
