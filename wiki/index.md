@@ -1,4 +1,4 @@
-Welcome to the CMSG Reasearch Group Site
+Welcome to the CMSG Research Group Site
 =========================================
 
 Activities
@@ -23,6 +23,7 @@ Available Information:
 4. [Our Group Members](/members)
 5. [Recent Visitors](/recentvisitors)
 6. [Recent Publications](/recentpublications)
-7. [Innitiatives](/innitiatives)
+7. [Initiatives](/innitiatives)
 8. [Research Topics](/researchtopics)
 9. [Recent Meetings](/recentmeetings)
+9. [Recent Schools](/recentschools)

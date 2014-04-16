@@ -10,12 +10,15 @@ a mentorship program that has trained and developed a passion for scientific
 excellence in young scientists. Some of those who have  been involved in the 
 metorship program include:
 
-1. Sylvia Mueni
-2. Michael Atambo
-3. Elkana Tawitch
-4. Eric Buko
-5. Samson Ngallah
-6. Sharon 
-7. Alex 
+1. Emily Aradi
+2. Cecil Ouma Naphtali Moro
+3. Edmund Ochieng
+4. Sylvia Mueni
+5. Michael Atambo
+6. Elkana Tawitch
+7. Eric Buko
+8. Samson Ngallah
+9. Sharon 
+10. Alex 
 
 
