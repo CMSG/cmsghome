@@ -22,7 +22,7 @@ Available Information:
 3. [Lab Photos](/photos)
 4. [Our Group Members](/members)
 5. [Recent Visitors](/recentvisitors)
-6. [Initiatives](/innitiatives)
+6. [Initiatives](/initiatives)
 7. [Research Topics](/researchtopics)
 8. [Recent Meetings](/recentmeetings)
 9. [Recent Schools](/recentschools)
