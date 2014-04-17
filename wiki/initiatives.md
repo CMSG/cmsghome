@@ -25,7 +25,8 @@ How it works
 ------------
 The program is open to students with a good academic record and are self driven, 
 studying in a science based course, the applications are open once a year and the 
-forms are available for download from this page (see below). 
+forms are available for download from this page (see below). Please read the advert
+in for more information.
 
 
 2014 Application Form:
