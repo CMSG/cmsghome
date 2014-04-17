@@ -23,7 +23,7 @@ mentorship program include:
 
 How it works
 ------------
-The program is open to students with a good academic record and are self driven 
+The program is open to students with a good academic record and are self driven, 
 studying in a science based course, the applications are open once a year and the 
 forms are available for download from this page (see below). 
 
