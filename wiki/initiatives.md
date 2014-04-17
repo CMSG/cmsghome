@@ -30,6 +30,6 @@ forms are available for download from this page (see below).
 
 2014 Application Form:
 ----------------------
-[2014 Application Form (PDF Dowload)](/initiatives/Application_form_SMP_2014-latest.pdf)
+[2014 Application Form (PDF Dowload)](/innitiatives/Application_form_SMP_2014-latest.pdf)
 
-[2014 Advert  (PDF Download)](/initiatives/advert-latest.pdf)
+[2014 Advert  (PDF Download)](/innitiatives/advert-latest.pdf)
