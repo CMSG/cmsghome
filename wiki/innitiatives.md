@@ -1,14 +1,14 @@
 Some of Our Initiatives
 =========================================
 
-Mentoriship
------------
+Scientific Mentoriship
+----------------------
 
 We encourage  young students that show academic excellence to pursue
 greater heights in their academic achievements, and to this end we created
 a mentorship program that has trained and developed a passion for scientific
 excellence in young scientists. Some of those who have  been involved in the 
-metorship program include:
+mentorship program include:
 
 1. Emily Aradi
 2. Cecil Ouma Naphtali Moro
@@ -21,4 +21,15 @@ metorship program include:
 9. Sharon 
 10. Alex 
 
+How it works
+------------
+The program is open to students with a good academic record and are self driven 
+studying in a science based course, the applications are open once a year and the 
+forms are available for download from this page (see below). 
 
+
+2014 Application Form:
+----------------------
+[2014 Application Form (PDF Dowload)](/innitiatives/Application_form_SMP_2014-latest.pdf)
+
+[2014 Advert  (PDF Download)](/innitiatives/advert-latest.pdf)
