@@ -26,3 +26,10 @@ Available Information:
 7. [Research Topics](/researchtopics)
 8. [Recent Meetings](/recentmeetings)
 9. [Recent Schools](/recentschools)
+
+
+Documentation
+-------------
+
+ [Documentation Page](http://cmsg.uoeld.ac.ke/docs/  "Visit").
+
